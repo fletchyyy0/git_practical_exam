@@ -1,2 +1,3 @@
 "Name: Fletcher Rymos Ma" 
 "Exam Date: 12/7/24" 
+"Favorite Git Command: Git Commit" 
